@@ -2,3 +2,5 @@ TwoOfThree
 ==========
 
 author: Clément
+
+Demo contract requiring two out of three owners of the contract to sign a transaction in order to execute it.
